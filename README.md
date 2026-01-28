@@ -2,15 +2,15 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=435&lines=I+am+a+frontend+developer;I+am+a+full-stack+developer;I+am+a+team+lead;I+am+a+tech+lead)
 
-A developer with 5+ years of experience building scalable web applications — from landing pages to complex CRM systems and interactive 2D/3D games.
+A developer with 5+ years of experience building scalable web applications - from landing pages to complex CRM systems and interactive 2D/3D games.
 
 I’ve contributed to the launch of a gamification platform for one of Russia’s largest financial institutions and have worked across a range of high-impact projects in diverse domains.
 
-Experienced in technical leadership, full-cycle development (estimation → launch → maintenance), and cross-functional collaboration with designers, backend engineers, and stakeholders.
+Experienced in technical leadership, full-cycle development (estimation => launch => maintenance), and cross-functional collaboration with designers, backend engineers, and stakeholders.
 
-Always aiming for mastery — constantly deepening my expertise in modern frontend technologies and best practices.
+Always aiming for mastery - constantly deepening my expertise in modern frontend technologies and best practices.
 
----
+___
 
 ## 💻 Core Tech Stack
 
@@ -56,9 +56,7 @@ Always aiming for mastery — constantly deepening my expertise in modern fronte
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
----
-
-## 🎨 Design & Collaboration
+### Design & Collaboration
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -68,7 +66,7 @@ Always aiming for mastery — constantly deepening my expertise in modern fronte
 
 > *Note: Adobe Creative Suite tools are used occasionally for asset preparation and prototyping.*
 
----
+___
 
 ## 📬 Let's Connect
 
